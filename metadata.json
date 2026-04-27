@@ -1,0 +1,6 @@
+{
+  "name": "Control logistico de entregas",
+  "description": "Gestión logística de entregas pendientes, control de demoras y métricas de rendimiento a partir de archivos Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
